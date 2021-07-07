@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Soch</string>
+    <string name="title_text">Greatful Thoughts</string>
+    <string name="grateful_text">Nayi Soch..!!</string>
+    <string name="get_started_text">Get Start</string>
+    <string name="email_hint">Email</string>
+    <string name="passwrd_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">Or</string>
+    <string name="create_acc_text">Create Account</string>
+    <string name="username_hint">Username</string>
+    <string name="post_title">Title</string>
+    <string name="your_post_description">Your Post</string>
+    <string name="menu_title">Add Thoughts</string>
+    <string name="signout">Signout</string>
+    <string name="no_thoughts_hintt">Write a Journal Entry by Clicking the \"+\" icon</string>
+</resources>
